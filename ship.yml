@@ -1,0 +1,4 @@
+name: e2e-demo
+type: api
+deploy:
+  - target: dokploy
